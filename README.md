@@ -11,6 +11,11 @@ This Repository that you are demostrate, real world Git and GitHub WorkFlows inc
 ## Technology
 - Git
 - GitHub
+- Branching 
+- Branching
+- pull request
+- release
 
-## Author : Olumide Olatunji (HC) 
+## Author
+   Olumide Olatunji (HC) 
 
